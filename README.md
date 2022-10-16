@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm hamidrezatakaloo</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
+[![@hamidreza's Holopin board](https://holopin.me/hamidreza)](https://holopin.io/@hamidreza)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidrezatakloo&label=Profile%20views&color=0e75b6&style=flat" alt="hamidrezatakloo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamidrezatakloo" alt="hamidrezatakloo" /></a> </p>
