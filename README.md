@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm hamidrezatakaloo</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm hamidrezatakaloo</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
 [![@hamidreza's Holopin board](https://holopin.me/hamidreza)](https://holopin.io/@hamidreza)
